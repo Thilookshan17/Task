@@ -1,0 +1,22 @@
+# Project Requirements
+#
+# This is an Arduino/ESP32 project, so these are hardware/software
+# requirements instead of Python packages.
+
+Arduino IDE 2.x
+ESP32 board package by Espressif Systems
+DHT sensor library by Adafruit
+Adafruit Unified Sensor library
+ESP32 development board
+DHT11 temperature and humidity sensor
+PIR motion sensor
+3 LEDs
+3 x 220 ohm resistors
+Breadboard
+Jumper wires
+USB cable
+
+# Browser dashboard CDN libraries used by the ESP32 web page:
+Chart.js
+jsPDF
+jsPDF AutoTable
